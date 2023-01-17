@@ -119,11 +119,11 @@ Execute the program
 ```
 # OUPUT
 
-![output](http://kamalxo.student.saveetha.in:8000/static/image/out.png?raw=true)
+![output](./out.png)
 
 # HTML VALIDATOR
 
-![HTML VALIDATOR](http://kamalxo.student.saveetha.in:8000/static/image/vo.png?raw=true)
+![HTML VALIDATOR](./vo.png)
 
 # RESULT
 
